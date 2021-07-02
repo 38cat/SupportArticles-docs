@@ -13,7 +13,7 @@ _Original KB number:_ &nbsp; 4463724
 
 ## Symptoms
 
-When you try to [enroll your Windows devices in Intune by using the Intune Company Portal](/mem/intune/user-help/windows-enrollment-company-portal), you receive the following error message:
+When you try to enroll your Windows devices in Intune, you receive the following error message:
 
 > You don't have the right privileges to perform this operation. Please talk to your admin.
 
